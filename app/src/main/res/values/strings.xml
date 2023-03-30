@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="create_an_a">Create an \naccount</string>
+    <string name="by_clicking">By clicking the Register button, you agree to the public offer</string>
+    <string name="register">Register</string>
+    <string name="sign_up_wit">sign up with</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome">Welcome \nBack!</string>
+    <string name="back">BACK</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgotp">Forgot \nPassword?</string>
+    <string name="line">* We will send you a message to set or reset your new password</string>
+    <string name="send_code">Send Code</string>
+    <string name="signin">sign in with</string>
+    <string name="not_registered">Not Registered!! \nSIGN IN</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="hi">HI!</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="craccw">176dp</dimen>
+    <dimen name="cracch">86dp</dimen>
+    <dimen name="craccml">29dp</dimen>
+    <dimen name="craccmt">39dp</dimen>
+
+</resources>

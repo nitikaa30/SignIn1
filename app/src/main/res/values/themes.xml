@@ -1,0 +1,72 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SignIn" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="create_an_a">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="by_clicking">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:textColor">#676767</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="register">
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="sign_up_wit">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:textColor">#676767</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="back">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:textColor">#676767</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="welcome">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="FP">
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:textColor">#FF4B26</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="forgotp">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="line">
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:textColor">#676767</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="NR">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:textColor">#FF4B26</item>
+        <item name="android:fontFamily">@font/volkhov_bold</item>
+    </style>
+    <style name="HI">
+        <item name="android:textSize">@dimen/_80sdp</item>
+        <item name="android:textColor">#FF4B26</item>
+        <item name="android:fontFamily">@font/anton</item>
+    </style>
+
+</resources>
